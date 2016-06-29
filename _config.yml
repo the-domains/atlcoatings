@@ -1,0 +1,14 @@
+layout_spectrum: 0.07021178002469242
+typography_spectrum: 0.8283176268450916
+color:
+  brandStrength: 0.4144534217193723
+  lightness: 0.652658749371767
+  saturation: 0.3741599777713418
+  rhythmicContrast: 0.02305885311216116
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: ATLCoatings
